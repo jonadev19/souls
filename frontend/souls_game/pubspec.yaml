@@ -10,6 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   flame: ^1.33.0
+  bonfire: ^3.16.1
   flame_audio: ^2.11.11
   flame_tiled: ^3.0.8
   flame_forge2d: ^0.19.2+1
