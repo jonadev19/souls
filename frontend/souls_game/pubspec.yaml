@@ -20,6 +20,9 @@ dependencies:
   provider: ^6.1.2
   path_provider: ^2.1.5
 
+dependency_overrides:
+  archive: ^4.0.2
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
